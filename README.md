@@ -17,4 +17,4 @@ Features/Highlights:
 •Drill down into detailed patient records and reports
 
 
-Dashboard Preview - [https://github.com/IamNikhilSingh/Amazon-Sales-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
+Dashboard Preview - [https://github.com/IamNikhilSingh/XYZ-Hospital-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
